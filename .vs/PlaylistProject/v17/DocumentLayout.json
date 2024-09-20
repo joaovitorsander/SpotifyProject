@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jo\u00E3o\\source\\repos\\PlaylistProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED006821-C917-446E-AE5A-C2F5CF568165}|PlaylistProject\\PlaylistProject.csproj|c:\\users\\jo\u00E3o\\source\\repos\\playlistproject\\playlistproject\\spotifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED006821-C917-446E-AE5A-C2F5CF568165}|PlaylistProject\\PlaylistProject.csproj|solutionrelative:playlistproject\\spotifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED006821-C917-446E-AE5A-C2F5CF568165}|PlaylistProject\\PlaylistProject.csproj|c:\\users\\jo\u00E3o\\source\\repos\\playlistproject\\playlistproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED006821-C917-446E-AE5A-C2F5CF568165}|PlaylistProject\\PlaylistProject.csproj|solutionrelative:playlistproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED006821-C917-446E-AE5A-C2F5CF568165}|PlaylistProject\\PlaylistProject.csproj|c:\\users\\jo\u00E3o\\source\\repos\\playlistproject\\playlistproject\\iplataformadownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED006821-C917-446E-AE5A-C2F5CF568165}|PlaylistProject\\PlaylistProject.csproj|solutionrelative:playlistproject\\iplataformadownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED006821-C917-446E-AE5A-C2F5CF568165}|PlaylistProject\\PlaylistProject.csproj|c:\\users\\jo\u00E3o\\source\\repos\\playlistproject\\playlistproject\\plataformadownloadfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED006821-C917-446E-AE5A-C2F5CF568165}|PlaylistProject\\PlaylistProject.csproj|solutionrelative:playlistproject\\plataformadownloadfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED006821-C917-446E-AE5A-C2F5CF568165}|PlaylistProject\\PlaylistProject.csproj|c:\\users\\jo\u00E3o\\source\\repos\\playlistproject\\playlistproject\\youtubedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED006821-C917-446E-AE5A-C2F5CF568165}|PlaylistProject\\PlaylistProject.csproj|solutionrelative:playlistproject\\youtubedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED006821-C917-446E-AE5A-C2F5CF568165}|PlaylistProject\\PlaylistProject.csproj|c:\\users\\jo\u00E3o\\source\\repos\\playlistproject\\playlistproject\\spotifydownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED006821-C917-446E-AE5A-C2F5CF568165}|PlaylistProject\\PlaylistProject.csproj|solutionrelative:playlistproject\\spotifydownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED006821-C917-446E-AE5A-C2F5CF568165}|PlaylistProject\\PlaylistProject.csproj|c:\\users\\jo\u00E3o\\source\\repos\\playlistproject\\playlistproject\\youtubeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED006821-C917-446E-AE5A-C2F5CF568165}|PlaylistProject\\PlaylistProject.csproj|solutionrelative:playlistproject\\youtubeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\PlaylistProject\\PlaylistProject\\Program.cs",
+              "RelativeDocumentMoniker": "PlaylistProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\PlaylistProject\\PlaylistProject\\Program.cs",
+              "RelativeToolTip": "PlaylistProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:54:15.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpotifyService.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\PlaylistProject\\PlaylistProject\\SpotifyService.cs",
+              "RelativeDocumentMoniker": "PlaylistProject\\SpotifyService.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\PlaylistProject\\PlaylistProject\\SpotifyService.cs",
+              "RelativeToolTip": "PlaylistProject\\SpotifyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:19:41.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YoutubeService.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\PlaylistProject\\PlaylistProject\\YoutubeService.cs",
+              "RelativeDocumentMoniker": "PlaylistProject\\YoutubeService.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\PlaylistProject\\PlaylistProject\\YoutubeService.cs",
+              "RelativeToolTip": "PlaylistProject\\YoutubeService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:19:19.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpotifyDownloader.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\PlaylistProject\\PlaylistProject\\SpotifyDownloader.cs",
+              "RelativeDocumentMoniker": "PlaylistProject\\SpotifyDownloader.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\PlaylistProject\\PlaylistProject\\SpotifyDownloader.cs",
+              "RelativeToolTip": "PlaylistProject\\SpotifyDownloader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:18:52.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YoutubeDownloader.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\PlaylistProject\\PlaylistProject\\YoutubeDownloader.cs",
+              "RelativeDocumentMoniker": "PlaylistProject\\YoutubeDownloader.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\PlaylistProject\\PlaylistProject\\YoutubeDownloader.cs",
+              "RelativeToolTip": "PlaylistProject\\YoutubeDownloader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:18:17.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlataformaDownloadFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\PlaylistProject\\PlaylistProject\\PlataformaDownloadFactory.cs",
+              "RelativeDocumentMoniker": "PlaylistProject\\PlataformaDownloadFactory.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\PlaylistProject\\PlaylistProject\\PlataformaDownloadFactory.cs",
+              "RelativeToolTip": "PlaylistProject\\PlataformaDownloadFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:17:48.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPlataformaDownload.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\PlaylistProject\\PlaylistProject\\IPlataformaDownload.cs",
+              "RelativeDocumentMoniker": "PlaylistProject\\IPlataformaDownload.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\PlaylistProject\\PlaylistProject\\IPlataformaDownload.cs",
+              "RelativeToolTip": "PlaylistProject\\IPlataformaDownload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:17:11.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
